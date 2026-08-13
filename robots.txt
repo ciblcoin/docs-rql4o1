@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0d4y5d.idncuan.xyz/sitemap.xml
